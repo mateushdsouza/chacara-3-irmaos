@@ -1,19 +1,34 @@
-# 🏡 Chácara Três Irmãos: Presença Digital
+# Chácara Três Irmãos
 
-## ✨ Visão Geral do Projeto
+Início de uma página institucional desenvolvida como atividade acadêmica. A versão atual contém o cabeçalho, a marca e os links de navegação.
 
-Este projeto é uma **Página de Divulgação Institucional (Landing Page)** para a Chácara Três Irmãos, desenvolvida como trabalho prático para o Projeto Integrador de Expansão do curso de Análise e Desenvolvimento de Sistemas. O objetivo principal é estabelecer uma presença online profissional, destacando a infraestrutura da chácara e facilitando o contato com clientes potenciais para eventos e hospedagem.
+## Tecnologias
 
-## 🎯 Objetivos
+HTML e CSS.
 
-* **Divulgação:** Apresentar de forma clara e atrativa os serviços e espaços da chácara.
-* **Experiência do Usuário (UX):** Garantir uma navegação intuitiva e agradável.
-* **Responsividade:** Otimizar o layout para perfeita visualização em qualquer dispositivo (desktop, tablet e celular).
-* **Aplicação Prática:** Consolidar os conhecimentos fundamentais em HTML, CSS e JavaScript.
+## Como visualizar
 
-## 🚀 Tecnologias Utilizadas
+```sh
+git clone https://github.com/mateushdsouza/chacara-3-irmaos.git
+cd chacara-3-irmaos
+```
 
-| **Estrutura** | **HTML5** | O alicerce do projeto. Define a estrutura semântica da página (cabeçalho, seções, rodapé, formulário). |
-| **Estilização** | **CSS3** | Responsável pelo design. Utilizado para estilizar componentes, aplicar a identidade visual e implementar o layout responsivo (*Media Queries* e *Flexbox*). |
-| **Interatividade** | **JavaScript (Vanilla JS)** | Adiciona comportamento dinâmico, como a funcionalidade do menu *hambúrguer* em dispositivos móveis e a lógica do carrossel de imagens. |
-| **Design** | **Figma** | Ferramenta utilizada para o *wireframing* e a criação do protótipo de alta fidelidade antes da codificação. |-
+Abra [index.html](index.html) no navegador. Não é necessário instalar dependências. Fontes externas, quando utilizadas, precisam de internet.
+
+## Organização
+
+- [index.html](index.html): estrutura da página.
+- [styles/](styles/): estilos.
+- [assets/](assets/): imagens e ícones.
+
+## Estado atual e limitações
+
+Em desenvolvimento: os links ainda apontam para #. Galeria, contato, carrossel e menu móvel funcional não estão implementados.
+
+## Aprendizado
+
+Estruturação de conteúdo em HTML, organização de estilos e composição visual. A presença de uma interface não representa um serviço completo em produção.
+
+## Créditos
+
+Implementação de estudo mantida por [Mateus Henrique de Souza](https://github.com/mateushdsouza). Imagens, marcas e materiais de referência mantêm a autoria de seus respectivos titulares.
