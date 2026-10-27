@@ -1,12 +1,19 @@
 # Chácara Três Irmãos
 
+## Acessar no navegador
+
+**[Abrir o projeto](https://mateushdsouza.github.io/chacara-3-irmaos/)**
+
+Não é necessário clonar o repositório, instalar ferramentas ou baixar arquivos para visualizar a versão publicada.
+
+
 Início de uma página institucional desenvolvida como atividade acadêmica. A versão atual contém o cabeçalho, a marca e os links de navegação.
 
 ## Tecnologias
 
 HTML e CSS.
 
-## Como visualizar
+## Desenvolvimento local (opcional)
 
 ```sh
 git clone https://github.com/mateushdsouza/chacara-3-irmaos.git
